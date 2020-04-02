@@ -7,7 +7,7 @@ Connectercise is a web application in which users can connect with other users t
 This repository uses a virtual environment with specific packages, therefore it is essential to activate the environment and installing the packages before running the application.
 
 ```
-$ git clone https://github.com/ineshbose/connectercise_project
+$ git clone https://github.com/marcaufderheyde/connectercise_project
 $ cd connectercise_project
 ```
 
